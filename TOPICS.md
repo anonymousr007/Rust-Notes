@@ -21,7 +21,16 @@
 - [9. Error Handling](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
 - [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html)
 - [11. Writing Automated Tests](https://doc.rust-lang.org/book/ch11-00-testing.html)
-- 
+- [12. An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/ch12-00-an-io-project.html)
+- [13. Functional Language Features: Iterators and Closures](https://doc.rust-lang.org/book/ch13-00-functional-features.html)
+- [14. More About Cargo and Crates.io](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html)
+- [15. Smart Pointers](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html)
+- [16. Fearless Concurrency](https://doc.rust-lang.org/book/ch16-00-concurrency.html)
+- [17. Object Oriented Programming Features of Rust](https://doc.rust-lang.org/book/ch17-00-oop.html)
+- [18. Patterns and Matching](https://doc.rust-lang.org/book/ch18-00-patterns.html)
+- [19. Advanced Features](https://doc.rust-lang.org/book/ch19-00-advanced-features.html)
+- [20. Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html)
+- [21. Appendix](https://doc.rust-lang.org/book/appendix-00.html)
 
 
 
