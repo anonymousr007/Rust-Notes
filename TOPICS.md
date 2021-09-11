@@ -94,9 +94,20 @@
   - [19.1 Unsafe Rust](https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html)
   - [19.2 Advanced Traits](https://doc.rust-lang.org/book/ch19-03-advanced-traits.html)
   - [19.3 Advanced Types](https://doc.rust-lang.org/book/ch19-04-advanced-types.html)
-  - [19.4 ]()
+  - [19.4 Advanced Functions and Closures](https://doc.rust-lang.org/book/ch19-05-advanced-functions-and-closures.html)
+  - [19.5 Macros](https://doc.rust-lang.org/book/ch19-06-macros.html)
 - [20. Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html)
+  - [20.1 Building a Single-Threaded Web Server](https://doc.rust-lang.org/book/ch20-01-single-threaded.html)
+  - [20.2 Turning Our Single-Threaded Server into a Multithreaded Server](https://doc.rust-lang.org/book/ch20-02-multithreaded.html)
+  - [20.3 Graceful Shutdown and Cleanup](https://doc.rust-lang.org/book/ch20-03-graceful-shutdown-and-cleanup.html)
 - [21. Appendix](https://doc.rust-lang.org/book/appendix-00.html)
+  - [21.1 Appendix A: Keywords](https://doc.rust-lang.org/book/appendix-01-keywords.html)
+  - [21.2 Appendix B: Operators and Symbols](https://doc.rust-lang.org/book/appendix-02-operators.html)
+  - [21.3 Appendix C: Derivable Traits](https://doc.rust-lang.org/book/appendix-03-derivable-traits.html)
+  - [21.4 Appendix D - Useful Development Tools](https://doc.rust-lang.org/book/appendix-04-useful-development-tools.html)
+  - [21.5 Appendix E - Editions](https://doc.rust-lang.org/book/appendix-05-editions.html)
+  - [21.6 Appendix F: Translations of the Book](https://doc.rust-lang.org/book/appendix-06-translation.html)
+  - [21.7 Appendix G - How Rust is Made and “Nightly Rust”](https://doc.rust-lang.org/book/appendix-07-nightly-rust.html)
 
 
 
